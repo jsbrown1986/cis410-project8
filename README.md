@@ -3,4 +3,4 @@
 
 Author: Jacob Brown
 
-Description: TK
+Description: Produces an image that renders the data file in four different ways: isosurface, three slices, hedgehog glyphs, and streamlines.
